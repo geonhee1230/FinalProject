@@ -42,7 +42,7 @@ public class Final {
 				{
 					if(users[i] != null && loginInput.equals(users[i]))
 					{
-						System.out.println("Comparing " + loginInput + " with " + users[i]);
+						
 						loggedIn = true;
 					}
 				}
